@@ -1,2 +1,2 @@
 # Docker 
- Deploying docker containrs for different applications
+ Deploying docker containers for different applications
